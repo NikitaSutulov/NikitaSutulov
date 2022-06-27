@@ -26,8 +26,8 @@
 | 🟨 generator         | 🟩 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟩 new Error          | 🟩 factory            | 🟨 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟦 pool               | 🟩 timers           | 🟩 unittest          |
-| 🟩 Array             |                       | 🟩 wrapper            | 🟨 EventEmitter     | 🟩 git               |
-| 🟩 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟩 github            |
+| 🟩 Array             |                       | 🟩 wrapper            | 🟩 EventEmitter     | 🟩 git               |
+| 🟩 instanceof        |                       | 🟨 default parameters | 🟩 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       |                       | 🟩 global           | 🟩 node.js           |
 | 🟩 ...rest           |                       |                       | 🟩 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
