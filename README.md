@@ -1,6 +1,7 @@
 <code>🎓 Student: KPI / IM-12</code>
 <code>👷 Speciality: Software engineer </code><br>
 <code>💡 [Skills (JS)](SKILLS.md)</code>
+<code>💡 [Skills (Kotlin)](SKILLS (Kotlin).md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
