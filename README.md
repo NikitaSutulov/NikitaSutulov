@@ -1,11 +1,6 @@
 <code>🎓 Student: KPI / IM-12</code>
-<code>👷 Speciality: Software engineer </code><br>
-<code>💡 [Skills (JS)](SKILLS.md)</code>
-<code>💡 [Skills (Kotlin)](SKILLS(Kotlin).md)</code>
-<code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, Kotlin</code>
-<code>🪙 [Rates](RATES.md)</code><br>
+<code>👷 Speciality: Android Developer </code><br>
+<code>💡 [Projects](PROJECTS.md)</code>
+<code>🧑‍💻 Languages: Java, Kotlin</code>
 <code>💬 telegram: [@Nikita_Sutulov](https://telegram.me/Nikita_Sutulov)</code>
 <code>📫 [notsid212@gmail.com](mailto:notsid212@gmail.com)</code>
