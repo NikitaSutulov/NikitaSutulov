@@ -1,4 +1,4 @@
 # List of projects
-[AGraph](https://github.com/NikitaSutulov/AGraph) - An Android app that draws line charts from a dataset given by user, with the ability to make the chart line smooth and save the chart.
+[dbuildery](https://github.com/NikitaSutulov/dbuildery) - A REST API for a project management system written with ExpressJS for MySQL.
 
-[FICE Advisor Android](https://github.com/fictadvisor/fictadvisor-android/) - Android app for ficeadvisor.com, website of student council of FICE KPI.
+[FitHelper](https://github.com/NikitaSutulov/fithelper) - A REST API for a healthy lifestyle monitoring service, NestJS + PostgreSQL, currently in development.
